@@ -1,0 +1,9 @@
+{
+  "name": "CD pipeline",
+  "existing_cluster_id": "0925-095326-omdlt0oj",
+  "timeout_seconds": 1200,
+  "max_retries": 3,
+  "notebook_task": {
+    "notebook_path": "/Workspace/Users/mohammedabutalibkhan@outlook.com/Devopsbook"
+  }
+}
